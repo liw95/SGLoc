@@ -58,7 +58,7 @@ python test.py --dataset_folder xxx --resume_model checkpoint_epoch_xxx.pth
 
 ## Model zoo
 
-Our pretrained model will soon be made public.
+The models of SGLoc on Oxford, QEOxford, and NCLT can be downloaded [here](https://drive.google.com/drive/folders/1FWoNDEsqqwnXmo1iSNmiGlcT0Ox2DM6f?usp=sharing).
 
 ## Acknowledgement
 
