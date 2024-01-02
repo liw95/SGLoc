@@ -4,7 +4,6 @@ SGLoc: Scene Geometry Encoding for Outdoor LiDAR Localization
 [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_SGLoc_Scene_Geometry_Encoding_for_Outdoor_LiDAR_Localization_CVPR_2023_paper.html) 
 [video](https://youtu.be/Tek6yA20N7M?feature=shared)
 
-
 ![image](img/vis.gif)
 
 
