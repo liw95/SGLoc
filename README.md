@@ -19,7 +19,7 @@ SGLoc: Scene Geometry Encoding for Outdoor LiDAR Localization
 - cuda 11.3
 
 ```
-conda install -f environment.yml
+source install.sh
 ```
 
 ## Dataset
