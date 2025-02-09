@@ -28,7 +28,7 @@ source install.sh
 
 We support the [Oxford Radar RobotCar](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/datasets) and [NCLT](https://robots.engin.umich.edu/nclt/) datasets right now.
 
-We also use PQEE to enhance the Oxford and provide the corrected pose, [QEOxford](QEOxford).
+We also use PQEE to enhance the Oxford and provide the corrected pose as QEOxford.
 
 The data of the Oxford, QEOxford and NCLT dataset should be organized as follows: 
 
